@@ -1,5 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: jekyll/minima@1e8a445
 plugins:
   - jekyll-remote-theme
-title: Мой сайт
-description: Пример GitHub Pages
+title: DigitFlow - Документация
+description: Инормация о платформе.
