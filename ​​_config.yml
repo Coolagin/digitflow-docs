@@ -2,7 +2,6 @@ title: "DigitFlow — документация"
 description: "Информация по работе с платформой DigitFlow"
 email: your-email@domain.com
 
-remote_theme: "jekyll/minima@1e8a445"
-
+remote_theme: "pages-themes/cayman@v0.2.0"
 plugins:
   - jekyll-remote-theme
