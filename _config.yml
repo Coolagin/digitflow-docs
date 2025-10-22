@@ -3,7 +3,3 @@ plugins:
   - jekyll-remote-theme
 title: DigitFlow - Документация
 description: Инормация о платформе.
-nav_pages:
-  - about.md
-hide_site_feed_link: true  # `false` or `null` by default
-show_excerpts: true
